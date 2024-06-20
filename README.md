@@ -1,21 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-
----
-
-<div align="center">
-  <img alt="Oat++ Logo" src="https://raw.githubusercontent.com/lganzzzo/oatpp-website-res/master/logo_x400.png" width="200px"/>
-</div>
-<p>&nbsp;</p>
-
-<p align="center">
-  <a href="https://dev.azure.com/lganzzzo/lganzzzo/_build?definitionId=1">
-    <img src="https://dev.azure.com/lganzzzo/lganzzzo/_apis/build/status/oatpp.oatpp" alt="oatpp build status" />
-  </a>
-  <a href="https://gitter.im/oatpp-framework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
-    <img src="https://badges.gitter.im/oatpp-framework/Lobby.svg" alt="Join the chat at https://gitter.im/oatpp-framework/Lobby" />
-  </a>
-</p>
-
 # Oat++ 
 
 **News**  
